@@ -1,0 +1,86 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*ID selectors*/
+
+#Banner {
+	text-align:center;
+	font-size: 60px;
+	font-family:Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana," sans-serif";
+	color: black;
+	height: 100px;
+	width: 100%;
+	margin-top:40px;
+	background-image: url(../images/hipsterlogogenerator_1434522734796.png);
+	
+}
+#Nav_Bar {
+	text-align: center;
+	background-color: #F8E5ED;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size:24px;
+	color:black;
+	
+}
+
+.middle_nav {
+	text-align: center;
+}
+#Main_content {
+	font-size: 14px;
+	font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+}
+#Footer {
+	text-align:center;
+	font-size:9px;
+	margin-top: 560px;
+	float: bottom;
+}
+Body {
+	background-image:url(shirt_pattern_design_by_rahul964.png);
+	background-color: #FFFFFF;
+	color: black;
+}
+
+#Nav_bar2 {
+	background-color: #F8E5ED;
+	text-align: 
+}
+footer {
+	background-color: #F8E5ED;
+}	
+
+/*class*/
+
+
+#inline {
+	width:100%;height:auto;
+	background-color:none;
+	display:flex;
+}
+.one{
+	width: 75%;
+	height:100px;
+	margin:10px;
+	margin-left: 100px;
+	padding: 10px;
+}
+
+.two{
+	width: 20%;
+	height:100px;
+	margin:10px;
+}
+
+.icecream_float {
+	width: 400px;
+	height: 400px;
+}	
+
+table {
+	
+	margin-top:25px;
+	border: 0;
+}	
+
+	
